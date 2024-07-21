@@ -1,0 +1,55 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: darkcyan;  
+}
+#Home
+{
+     
+    display: flex;
+    justify-content: center;
+    scroll-behavior: smooth;
+}
+.lighty
+{
+    color: lightgreen;
+}
+.name
+{
+    color: darkslategrey;
+}
+.seaction-header
+{
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+    
+
+}
+.text-capthion
+{
+    margin-top: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 35px;
+    word-spacing: 2px;
+    font-size: 20px;
+    
+    
+}
+
+.btn-center
+{
+    width: fit-content;
+    margin: auto;
+}
+
+.links
+{
+    color:rgb(13, 202, 240);
+}
